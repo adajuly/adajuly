@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![](https://adajuly.github.io/assets/profile.png)
 <!--
 **adajuly/adajuly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
