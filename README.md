@@ -9,10 +9,10 @@
 ![](https://adajuly.github.io/assets/profile.png)
 #
 
-<p align="center">
+<div align="center">
   <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=adajuly&theme=gotham&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adajuly&show_icons=true&cache_seconds=86400&theme=gotham"/> 
-</p>
+</div>
 
 #
 - 🔭 I'm currently working on some projects using react, vue, nodejs and so on.
