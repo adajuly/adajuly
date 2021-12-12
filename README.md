@@ -5,9 +5,9 @@
 ![](https://adajuly.github.io/assets/profile.png)
 
 <h5 align="center">
-  <code><a href="http://wpa.qq.com/msgrd?v=3&uin=974441012&site=qq&menu=yes" title="QQ Profile"><img height="24" src="images/QQ.svg"></a></code>
-  <code><a href="mailto:adajulyforever@gmail.com" title="点击给我发邮件"><img height="24" src="images/mail.svg">  </a></code>
-  <code><a href="https://github.com/geekswg" title="Adajuly's GitHhub"><img height="24" src="images/github.svg">  </a></code>
+  <code><a href="http://wpa.qq.com/msgrd?v=3&uin=974441012&site=qq&menu=yes" title="QQ Profile"><img height="24" src="image/qq.svg" /></a></code>
+  <code><a href="mailto:adajulyforever@gmail.com" title="点击给我发邮件"><img height="24" src="image/mail.svg" />  </a></code>
+  <code><a href="https://github.com/geekswg" title="Adajuly's GitHhub"><img height="24" src="image/github.svg" />  </a></code>
 </h5>
 
 
