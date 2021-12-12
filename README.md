@@ -7,15 +7,14 @@
 </h5>
 
 ![](https://adajuly.github.io/assets/profile.png)
+#
 
-#
-<div align="center">
-  <img height="180em" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=adajuly&theme=gotham&hide_border=true" />
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=adajuly&show_icons=true&cache_seconds=86400&theme=gotham"/> 
+<div style="display:flex;height:180px">
+    <img height="180em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adajuly&theme=gotham&hide_border=true" />
+    <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api?username=adajuly&show_icons=true&cache_seconds=86400&theme=gotham"/> 
 </div>
-  
-#
-  
+
+
 - 🔭 I'm currently working on some projects using react, vue, nodejs and so on.
 - 🌱 I'm currently learning Javascript.
 - 💬 Ask me about anything about web.
