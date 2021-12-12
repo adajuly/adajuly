@@ -10,8 +10,8 @@
 
 #
 <div align="center">
-  <img height="180em"  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=adajuly&theme=gotham&hide_border=true" />
-  <img height="180em"  width="49%" src="https://github-readme-stats.vercel.app/api?username=adajuly&show_icons=true&cache_seconds=86400&theme=gotham"/> 
+  <img height="180em" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=adajuly&theme=gotham&hide_border=true" />
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=adajuly&show_icons=true&cache_seconds=86400&theme=gotham"/> 
 </div>
   
 #
